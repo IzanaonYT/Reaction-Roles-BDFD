@@ -12,5 +12,8 @@ BDFD EJEMPLO
 
 ```python
 $var[url;tu url de render o dominio  de render]
-$httpPost[$var[url]/]
+
+$var[cuerpo;{]
+$httpPost[$var[url]/api/reaction-roles/;$var[cuerpo]]
+$httpResult
 ```
