@@ -4,6 +4,6 @@
 
 Que el bot tenga host, no significa que lo tendra de la app "Bot Designer Bot Discord"
 
-Tener en cuenta que el bot reaciona cuando cuando todos los requerimiento esten disponibles, como ver canales, agregar roles, role inferiores y permisos.
+Tener en cuenta que el bot reaciona cuando todos los requerimiento esten disponibles, como ver canales, agregar roles (role inferiores) y permisos.
 
 ![image](https://github.com/IzanaonYT/Reaction-Roles-BDFD/assets/148601206/6b9838a8-9285-487c-8d5d-eb1f9186c347)
