@@ -3,3 +3,4 @@ uvicorn
 requests
 pydantic
 discord.py
+python-dotenv
