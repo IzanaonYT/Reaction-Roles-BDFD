@@ -8,7 +8,7 @@ Tener en cuenta que el bot reaciona cuando todos los requerimiento esten disponi
 
 ![image](https://github.com/IzanaonYT/Reaction-Roles-BDFD/assets/148601206/6b9838a8-9285-487c-8d5d-eb1f9186c347)
 
-BDFD EJEMPLO
+**BDFD EJEMPLO**
 
 ```python
 $c[agrega role de reacion]
