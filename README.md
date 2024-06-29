@@ -25,4 +25,4 @@ $var[cuerpo;{
 $httpPost[$var[url]/api/reaction-roles/;$var[cuerpo]]
 $httpResult
 ```
-## [Otras Rutas]()
+## [Otras Rutas](https://github.com/IzanaonYT/Reaction-Roles-BDFD/tree/master/Config/Rutas)
