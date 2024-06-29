@@ -11,9 +11,18 @@ Tener en cuenta que el bot reaciona cuando todos los requerimiento esten disponi
 BDFD EJEMPLO
 
 ```python
+$c[agrega role de reacion]
+
 $var[url;tu url de render o dominio  de render]
 
-$var[cuerpo;{]
+$var[cuerpo;{
+    "channel_id": "$channelID",
+    "message_id": "1256636857387843795",
+    "emoji": "⭐",
+    "role_id": "1100240421512290326"
+}]
+
 $httpPost[$var[url]/api/reaction-roles/;$var[cuerpo]]
 $httpResult
 ```
+## [Otras Rutas]()
