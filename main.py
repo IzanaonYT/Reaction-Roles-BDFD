@@ -9,7 +9,9 @@ import os
 from Config.Funciones.registrar import registrar_rutas_desde_directorio
 from Config.Funciones.datos_json import load_data
 from Config.Funciones.guardar_json import save_data
+from dotenv import load_dotenv
 
+load_dotenv()
 
 intents = discord.Intents.default()
 intents.reactions = True
